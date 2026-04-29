@@ -1,0 +1,1 @@
+Run `writeLines(capture.output(sessionInfo()), 'session_info/sessionInfo.txt')` after executing the workflow to record the exact R environment.

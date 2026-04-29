@@ -1,0 +1,5 @@
+script_order,script_name,original_file_name,purpose
+01,01_prepare_inputs.R,Sarcoma project_01 (Prepare_inputs)(2).R,Prepare GEO input folders/files and download the TCGA-SARC cBioPortal archive.
+02,02_discovery_main.R,Sarcoma project_02 (Discovery_main)(2).R,"Run discovery cohort curation, batch correction, clustering, DEG, enrichment, visualization, and network analyses."
+03,03_discovery_additional_analyses.R,Sarcoma project_03 (discovery_additional_analyses)(1).R,"Run additional robustness, composition, myogenic score, leave-one-dataset-out, sensitivity, and network analyses."
+04,04_tcga_external_validation.R,Sarcoma project_04 (TCGA_external_validation)(1).R,Run TCGA-SARC external validation using the discovery-derived myogenic/minor-cluster signature.

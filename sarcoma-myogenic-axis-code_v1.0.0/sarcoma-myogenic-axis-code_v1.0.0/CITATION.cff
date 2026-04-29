@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Analysis code for Leiomyosarcoma-Enriched Myogenic Axis in Public Sarcoma Cohorts"
+message: "If you use this code, please cite the archived release."
+type: software
+authors:
+  - family-names: "Roh"
+    given-names: "Sanghyun"
+    email: "shiroyuki5235@sch.ac.kr"
+    affiliation: "Department of Medical Science, Soonchunhyang University, Republic of Korea"
+version: "1.0.0"
+date-released: "2026-04-29"
+repository-code: "https://github.com/shiroyuki5235/sarcoma-myogenic-axis-code"
+license: "MIT"
+keywords:
+  - sarcoma
+  - leiomyosarcoma
+  - transcriptome
+  - bioinformatics
+  - R

@@ -1,7 +1,0 @@
-Code availability
-
-The R scripts used for input preparation, discovery cohort analysis, additional robustness analyses, and TCGA-SARC external validation are available in GitHub and archived in Zenodo as version 1.0.0 (DOI: 10.xxxx/zenodo.xxxxxxxx).
-
-Reference format after Zenodo DOI assignment:
-
-Roh S. Analysis code for Leiomyosarcoma-Enriched Myogenic Axis in Public Sarcoma Cohorts. Version 1.0.0. Zenodo. 2026. doi:10.xxxx/zenodo.xxxxxxxx.

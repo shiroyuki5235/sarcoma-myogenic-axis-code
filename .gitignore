@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
+*.download
+/S1_Code/Results/
+/S1_Code/Inputs/Download_cache/
+/S1_Code/Inputs/Primary_project/Input/GEO_prepared/
+/S1_Code/Inputs/Primary_project/Input/TCGA/
+/Sarcoma_Primary_Inputs_20261116.zip
+/Sarcoma_Online*/

@@ -1,0 +1,28 @@
+{
+  "title": "Analysis code and preserved inputs for Leiomyosarcoma-Enriched Myogenic Axis in Public Sarcoma Cohorts",
+  "version": "1.1.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Roh, Sanghyun",
+      "affiliation": "Department of Medical Science, Soonchunhyang University, Republic of Korea"
+    }
+  ],
+  "description": "<p>Five sequential R scripts and preserved inputs for the revised analysis of a leiomyosarcoma-enriched myogenic axis in nine public GEO cohorts and TCGA-SARC. Includes the S1 Data workbook, fixed analysis settings, archived gene sets and ten binary parts reconstructing nine historical prepared GEO expression matrices. TCGA files are retrieved from a checksum-verified, fixed cBioPortal datahub commit. The separate online RMA reconstruction is retained as a sensitivity analysis. Historical normalization and annotation versions are incompletely documented; connected-record groups are not confirmed unique patients. MIT applies to the original code and documentation; third-party data retain their original terms as described in DATA_SOURCES.md.</p><p>This research was supported by the development of a real-world big data-based clinic-genomic information management system for sarcoma through the National Research Foundation of Korea (NRF), funded by the Ministry of Education (RS-2024-00349335), awarded to J.-A.G. This research was supported by the Global Learning & Academic Research Institution for Master’s–PhD Students and Postdocs (G-LAMP) Program of the National Research Foundation of Korea (NRF), funded by the Ministry of Education (No. RS-2025-25441283). This research was supported by the Soonchunhyang University Research Fund. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>",
+  "keywords": [
+    "sarcoma",
+    "leiomyosarcoma",
+    "transcriptome",
+    "R",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/shiroyuki5235/sarcoma-myogenic-axis-code",
+      "relation": "isSupplementTo"
+    }
+  ]
+}
